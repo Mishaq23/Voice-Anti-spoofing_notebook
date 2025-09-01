@@ -8,3 +8,4 @@ pandas
 wandb
 comet_ml
 hydra-core
+kaggle_secrets
